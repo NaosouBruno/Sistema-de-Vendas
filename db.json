@@ -89,65 +89,6 @@
     }
   ],
   "pedidoProdutos": [
-    {
-      "pedidoId": 1,
-      "produtoId": 2,
-      "id": 3
-    },
-    {
-      "pedidoId": 2,
-      "produtoId": 1,
-      "id": 6
-    },
-    {
-      "pedidoId": 2,
-      "produtoId": 2,
-      "id": 8
-    },
-    {
-      "pedidoId": 3,
-      "produtoId": 1,
-      "id": 9
-    },
-    {
-      "pedidoId": 3,
-      "produtoId": 2,
-      "id": 10
-    },
-    {
-      "pedidoId": 4,
-      "produtoId": 1,
-      "id": 11
-    },
-    {
-      "pedidoId": 4,
-      "produtoId": 2,
-      "id": 12
-    },
-    {
-      "pedidoId": 5,
-      "produtoId": 1,
-      "id": 13
-    },
-    {
-      "pedidoId": 5,
-      "produtoId": 2,
-      "id": 14
-    },
-    {
-      "pedidoId": 4,
-      "produtoId": 2,
-      "id": 15
-    },
-    {
-      "pedidoId": 4,
-      "produtoId": 2,
-      "id": 16
-    },
-    {
-      "pedidoId": 4,
-      "produtoId": 2,
-      "id": 17
-    }
+    
   ]
 }
