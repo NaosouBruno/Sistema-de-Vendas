@@ -1,0 +1,153 @@
+{
+  "categorias": [
+    {
+      "id": 0,
+      "name": "Camisetas"
+    },
+    {
+      "id": 1,
+      "name": "Blusa"
+    },
+    {
+      "id": 2,
+      "name": "Camisa"
+    },
+    {
+      "id": 3,
+      "name": "Calça"
+    },
+    {
+      "id": 4,
+      "name": "Short"
+    },
+    {
+      "id": 5,
+      "name": "Sapato"
+    },
+    {
+      "id": 6,
+      "name": "Meia"
+    }
+  ],
+  "produtos": [
+    {
+      "name": "Play 5",
+      "descricao": "jogar",
+      "valorUnitario": 500,
+      "categoriaId": 0,
+      "id": 1
+    },
+    {
+      "name": "Controle",
+      "descricao": "Play 5",
+      "valorUnitario": 500,
+      "categoriaId": 0,
+      "id": 2
+    },
+    {
+      "name": "Meia",
+      "descricao": "meiaaaa",
+      "valorUnitario": 25.88,
+      "categoriaId": 6,
+      "id": 3
+    },
+    {
+      "name": "calça",
+      "descricao": "caça",
+      "valorUnitario": 78.99,
+      "categoriaId": 3,
+      "id": 4
+    },
+    {
+      "name": "Camisa Azul",
+      "descricao": "AZUL",
+      "valorUnitario": 87.99,
+      "categoriaId": 2,
+      "id": 5
+    }
+  ],
+  "pedidos": [
+    {
+      "status": "PENDENTE",
+      "id": 1
+    },
+    {
+      "status": "PAGO",
+      "id": 2
+    },
+    {
+      "status": "PENDENTE",
+      "id": 3
+    },
+    {
+      "status": "PENDENTE",
+      "id": 4
+    },
+    {
+      "status": "PAGO",
+      "id": 5
+    }
+  ],
+  "pedidoProdutos": [
+    {
+      "pedidoId": 1,
+      "produtoId": 2,
+      "id": 3
+    },
+    {
+      "pedidoId": 2,
+      "produtoId": 1,
+      "id": 6
+    },
+    {
+      "pedidoId": 2,
+      "produtoId": 2,
+      "id": 8
+    },
+    {
+      "pedidoId": 3,
+      "produtoId": 1,
+      "id": 9
+    },
+    {
+      "pedidoId": 3,
+      "produtoId": 2,
+      "id": 10
+    },
+    {
+      "pedidoId": 4,
+      "produtoId": 1,
+      "id": 11
+    },
+    {
+      "pedidoId": 4,
+      "produtoId": 2,
+      "id": 12
+    },
+    {
+      "pedidoId": 5,
+      "produtoId": 1,
+      "id": 13
+    },
+    {
+      "pedidoId": 5,
+      "produtoId": 2,
+      "id": 14
+    },
+    {
+      "pedidoId": 4,
+      "produtoId": 2,
+      "id": 15
+    },
+    {
+      "pedidoId": 4,
+      "produtoId": 2,
+      "id": 16
+    },
+    {
+      "pedidoId": 4,
+      "produtoId": 2,
+      "id": 17
+    }
+  ]
+}
